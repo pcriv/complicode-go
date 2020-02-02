@@ -24,3 +24,8 @@ func main() {
 	fmt.Printf(code) // => "6A-DC-53-05-14"
 }
 ```
+
+## License
+
+Copyright 2020 [Pablo Crivella](https://pablocrivella.me).
+Read [LICENSE](LICENSE) for details.
