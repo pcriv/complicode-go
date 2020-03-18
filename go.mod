@@ -1,6 +1,6 @@
 module github.com/pablocrivella/complicode-go
 
-go 1.13
+go 1.14
 
 require (
 	github.com/chtison/baseconverter v1.1.0
